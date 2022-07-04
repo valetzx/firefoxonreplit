@@ -5,7 +5,7 @@
  1. Create a Repl
  2. Entry this command to shell
 
-```bash
+```
 git clone https://github.com/valetzx/firefoxonreplit && mv -b firefoxonreplit/* ./ && mv -b firefoxonreplit/.[^.]* ./ && rm -rf *~ && rm -rf firefoxonreplit
 ```
  
