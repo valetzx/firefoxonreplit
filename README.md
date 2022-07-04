@@ -1,4 +1,4 @@
-# Firefox-on-replit
+# Firefox-noVnc-on-replit
  
 ## How to start - >
 
