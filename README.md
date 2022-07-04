@@ -9,7 +9,13 @@
 git clone https://github.com/valetzx/firefoxonreplit && mv -b firefoxonreplit/* ./ && mv -b firefoxonreplit/.[^.]* ./ && rm -rf *~ && rm -rf firefoxonreplit
 ```
  
- 3. Add your VNC_PASSWORD to Secrets
+ 3. Add your VNC_PASSWORD to 🔒Secrets
+ 
+```
+KEY：VNC_PASSWORD
+VALUE：Your wanna passwd
+```
+
  4. When Loading Nix environment... done
  5. use `kill 1` to restart repl shell
  6. At last click RUN bottom to start firefox
