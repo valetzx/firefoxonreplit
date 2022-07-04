@@ -36,3 +36,7 @@ view at https://novnc.com/noVNC/vnc.html
  1. It will crash if memory out, and i dont know why memory out, mabe screen maybe sth others, but the same url on firefox will not crash
  2. i really like chromium !
  
+## Others 
+ 
+ 1. Not recommend use personal repl to run this, even you have set passwd
+ 2. i really like chromium !
